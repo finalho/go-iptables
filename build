@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-ORG_PATH="github.com/coreos"
+ORG_PATH="github.com/finalho"
 REPO_PATH="${ORG_PATH}/go-iptables"
 
 if [ ! -h gopath/src/${REPO_PATH} ]; then
